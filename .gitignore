@@ -1,0 +1,12 @@
+# Ignore bibliography files, but not .bib files
+*/biblio
+!*/biblio/biblio.bib
+
+# Ignore latex/bibtex auxiliary files and intermediate documents
+*/*.aux
+*/*.bbl
+*/*.blg
+*/*.dvi
+*/*.log
+*/*.synctex.gz
+*/*.toc
