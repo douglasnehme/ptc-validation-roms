@@ -1,5 +1,5 @@
-# Ignore bibliography files, but not .bib files
-*/biblio
+# Ignore bibliography files, but not biblio.bib files
+*/biblio/*
 !*/biblio/biblio.bib
 
 # Ignore latex/bibtex auxiliary files and intermediate documents

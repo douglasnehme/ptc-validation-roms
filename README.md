@@ -1,6 +1,6 @@
 # Regional Ocean Modeling System (ROMS) simulations validation protocols
 
-Creating step-by-step protocols to by followed during ROMS simulations validation
+Creating step-by-step protocols to be followed during ROMS simulations validation
 
 1. Sea Surface Height
 2. Sea Surface Geostrophic Currents
