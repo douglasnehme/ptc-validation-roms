@@ -8,5 +8,6 @@
 */*.blg
 */*.dvi
 */*.log
+*/*.out
 */*.synctex.gz
 */*.toc
